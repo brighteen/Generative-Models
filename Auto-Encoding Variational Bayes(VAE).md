@@ -1,11 +1,3 @@
-GAN 논문 내 VAE
-
-Variational Autoencoder(VAE)
-VAE는 인코더와 디코더 구조를 가짐.
-인코더: 실제 데이터 x를 받아 저차원 잠재벡터 z에 대한 확률 분포(q(z|x))를 학습함.
-디코더: 잠재 벡터 z를 샘플링하여 다시 x와 유사한 데이터로 복원함.
-  
-
 # Auto-Encoding Variational Bayes
 >Diederik P. Kingma, Max Welling
 
